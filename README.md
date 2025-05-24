@@ -1,11 +1,11 @@
 
-### Olá! eu sou Cauan Amorim Gomes 👋
+### Hi! I 'am! Cauan Amorim Gomes 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanamorimgomes&show_icons=true&theme=merko)
 
 
 
-## Tecnológias que uso no meu dia a dia:
+## Technologies then i use in my day a day:
 
 <div style = "inline-block">
     <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
