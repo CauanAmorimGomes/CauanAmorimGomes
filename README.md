@@ -16,7 +16,7 @@
 ```yaml
 [ OK ] Loading identity module.............. Cauan Amorim Gomes
 [ OK ] Role.................................. Backend Developer
-[ OK ] Location.............................. São Paulo, Brazil 🇧🇷
+[ OK ] Location.............................. São Paulo, Brasil 🇧🇷
 [ OK ] Current mission....................... Building robust, scalable and secure systems
 [ OK ] Learning protocol..................... Always active
 [ OK ] Coffee reserves....................... ██████████ 100%
