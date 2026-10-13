@@ -82,7 +82,7 @@
 
 <a href="https://github.com/cauanamorimgomes"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"></a>
 <a href="https://www.linkedin.com/in/cauan-amorim-gomes-1107452a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"></a>
+<a href="mailto:cg8346641@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"></a>
 
 <br/><br/>
 
