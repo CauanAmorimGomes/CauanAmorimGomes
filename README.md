@@ -76,6 +76,16 @@
 
 ---
 
+## 🟣 `> transform --decepticon`
+
+<div align="center">
+
+<img src="./decepticon-contributions.svg" width="900" alt="Animação Decepticon: quadradinhos se transformam no símbolo roxo dos Decepticons" />
+
+</div>
+
+---
+
 ## 📞 `> establish --connection`
 
 <div align="center">
